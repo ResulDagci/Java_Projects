@@ -1,8 +1,8 @@
-package Java_Practices;
+package java_Practices;
 
 import java.util.Scanner;
 
-public class C01_kokBulma {
+public class C01_KokBulma {
     public static void main(String[] args) {
         // katsayıları alinan 2.dereceden 1 bilinmeyenli denklemin kökleriniz bulma
 

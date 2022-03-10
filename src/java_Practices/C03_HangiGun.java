@@ -1,8 +1,8 @@
-package Java_Practices;
+package java_Practices;
 
 import java.util.Scanner;
 
-public class C03_hangiGun {
+public class C03_HangiGun {
     public static void main(String[] args) {
 
         // Kullanıcının yasadıgı gün ve istenilen gun sonrasina gore hangi gün olduğunuz yazdırınız.

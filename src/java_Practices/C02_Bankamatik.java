@@ -1,9 +1,9 @@
-package Java_Practices;
+package java_Practices;
 
 
 import java.util.Scanner;
 
-public class C02_bankamatik {
+public class C02_Bankamatik {
     /*
     Bakıye (basalngic: 1000 tl) öğrenme, para yatırma ve cekme, çıkış işlemlerinin yapıldıgı bie ATM app. code create ediniz
      */

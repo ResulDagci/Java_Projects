@@ -18,6 +18,7 @@ public class C08_MukemmelSayi {
                       4. bolenleri toplamla topla
                       5. sayiyla toplamin esitligini kontrol et
         */
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Lutfen bir sayi girin : ");
